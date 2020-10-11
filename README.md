@@ -1,7 +1,7 @@
 # Openvino_Yolov5_async
 yolov5的openvino模型，带异步推理
 
-在AI-BoxX上运行
+在HDDL-R8上运行
 
 安装依赖
 
