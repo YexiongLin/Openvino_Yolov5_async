@@ -1,7 +1,10 @@
 # Openvino_Yolov5_async
-yolov5的openvino模型，带异步推理\n
-在AI-BoxX上运行\n
-安装依赖\n
+yolov5的openvino模型，带异步推理
+
+在AI-BoxX上运行
+
+安装依赖
+
 ```
 pip install torch==1.5.1 torchvision==0.6.1
 ```
